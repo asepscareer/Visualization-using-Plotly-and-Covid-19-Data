@@ -7,4 +7,4 @@
 
 # Publish on medium
 ----------------------------------------------------------------------------
-@medium : https://data.humdata.org/dataset/indonesia-administrative-boundary-polygons-lines-and-places-levels-0-4b
+@medium : https://medium.com/@asepsaputra/analisis-data-kasus-covid-19-di-dunia-menggunakan-plotly-for-interactive-visualization-ca4a941ee798
